@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How Simple works</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">How Stay Exchange works</h2>
+            <p className="text-xl text-gray-600">We crowd source student-recommended properties so that you do not have to look for one yourself.</p>
           </div>
 
           {/* Items */}
@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initial Contact</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Search</h4>
+              <p className="text-gray-600 text-center">You look for student-recommended listings by searching for your exchange university.</p>
             </div>
 
             {/* 2nd item */}
@@ -49,8 +49,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Discovery Session</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Browse</h4>
+              <p className="text-gray-600 text-center">Browse the listings and find one that suits your taste.</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contracting</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Reach Out</h4>
+              <p className="text-gray-600 text-center">Reach out to the student who posted the listing.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>              
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Response</h4>
+              <p className="text-gray-600 text-center">If he finds both of him and you to make good house partners, you will be accepted into his listing.</p>
             </div>
 
             {/* 5th item */}
@@ -96,8 +96,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contact</h4>
+              <p className="text-gray-600 text-center">You can reach out to him either through his email/Telegram to discuss more about the logistics of the stay.</p>
             </div>
 
             {/* 6th item */}
@@ -113,8 +113,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Seat Back & Relax</h4>
+              <p className="text-gray-600 text-center">Count down to the day you fly off and plan what you want to do on exchange!</p>
             </div>
 
           </div>
