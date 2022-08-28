@@ -23,10 +23,14 @@ function Newsletter() {
                 <p className="text-gray-200 text-lg mb-6">Stay Exchange will initially only be available to those who subscribe below.</p>
 
                 {/* CTA form */}
-                <form className="w-full lg:w-auto">
+                <form id="subscribe-form" className="w-full lg:w-auto" onSubmit={(e) => {
+                  e.preventDefault();
+                  alert("Thank you for subscribing! \n\nYou will be the first to know once Stay Exchange is ready.");
+                  document.getElementById("subscribe-form").reset();
+                }}>
                   <div className="flex flex-col sm:flex-row justify-center lg:mx-0">
                     <input type="email" className="form-input w-full appearance-none bg-white-800 border border-gray-700 focus:border-gray-600 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-black placeholder-gray-500" placeholder="Your email…" aria-label="Your email…" />
-                    <button className="btn text-black bg-gray-300" href="#0">Subscribe</button>
+                    <button className="btn text-black bg-gray-300 hover:bg-gray-400" href="#0">Subscribe</button>
                   </div>
                   {/* Success message */}
                   {/* <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> */}
