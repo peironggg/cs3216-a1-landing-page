@@ -14,7 +14,7 @@ function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">How Stay Exchange works</h2>
-            <p className="text-xl text-gray-600">We crowd source student-recommended properties so that you do not have to look for one yourself.</p>
+            <p className="text-xl text-gray-600">A step-by-step walkthrough of how you may use Stay Exchange.</p>
           </div>
 
           {/* Items */}
@@ -34,7 +34,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Search</h4>
-              <p className="text-gray-600 text-center">You look for student-recommended listings by searching for your exchange university.</p>
+              <p className="text-gray-600 text-center">You look for listings by searching for your exchange university.</p>
             </div>
 
             {/* 2nd item */}
@@ -114,7 +114,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Seat Back & Relax</h4>
-              <p className="text-gray-600 text-center">Count down to the day you fly off and plan what you want to do on exchange!</p>
+              <p className="text-gray-600 text-center">Count down to the day you fly off and plan what you want to do on exchange! There is nothing you need to do now.</p>
             </div>
 
           </div>

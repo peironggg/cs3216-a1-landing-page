@@ -6,6 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        "stayexchange": "#3563E9",
+        "stayexchangelight": "#D7E0FB",
         gray: {
           100: '#FBFBFB',
           200: '#EAEAEA',
@@ -58,7 +60,8 @@ module.exports = {
         '1/1': '100%',
       },
       fontFamily: {
-        inter: ['Inter', 'sans-serif']
+        inter: ['Inter', 'sans-serif'],
+        stayexchange: ['Roboto'],
       },
       fontSize: {
         xs: '0.75rem',
