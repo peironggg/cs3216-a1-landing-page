@@ -25,7 +25,7 @@ function Newsletter() {
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
                   <div className="flex flex-col sm:flex-row justify-center lg:mx-0">
-                    <input type="email" className="form-input w-full appearance-none bg-white-800 border border-gray-700 focus:border-gray-600 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-gray-500" placeholder="Your email…" aria-label="Your email…" />
+                    <input type="email" className="form-input w-full appearance-none bg-white-800 border border-gray-700 focus:border-gray-600 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-black placeholder-gray-500" placeholder="Your email…" aria-label="Your email…" />
                     <button className="btn text-black bg-gray-300" href="#0">Subscribe</button>
                   </div>
                   {/* Success message */}

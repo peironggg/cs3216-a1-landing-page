@@ -1,8 +1,9 @@
 {
   "name": "simple-light-react",
   "version": "0.1.0",
-  "scripts": {
+  "scripts": {    
     "dev": "vite",
+    "start": "npm run dev",
     "build": "vite build",
     "preview": "vite preview"
   },
