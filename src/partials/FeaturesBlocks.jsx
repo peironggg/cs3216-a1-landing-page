@@ -82,7 +82,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>              
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Response</h4>
-              <p className="text-gray-600 text-center">If he finds both of him and you to make good house partners, you will be accepted into his listing.</p>
+              <p className="text-gray-600 text-center">If the lister finds both you and them to make good house partners, you will be accepted into their listing.</p>
             </div>
 
             {/* 5th item */}
@@ -97,7 +97,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contact</h4>
-              <p className="text-gray-600 text-center">You can reach out to him either through his email/Telegram to discuss more about the logistics of the stay.</p>
+              <p className="text-gray-600 text-center">You can reach out to them either through their email/Telegram to discuss more about the logistics of the stay.</p>
             </div>
 
             {/* 6th item */}
@@ -113,7 +113,7 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Seat Back & Relax</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Sit Back & Relax</h4>
               <p className="text-gray-600 text-center">Count down to the day you fly off and plan what you want to do on exchange! There is nothing you need to do now.</p>
             </div>
 
